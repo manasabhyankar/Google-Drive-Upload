@@ -17,7 +17,7 @@ To run the script, you can use it as a standard Python script run in your comman
 **Here's an example of what to expect pop-up in your Drive:**
 
 
-![This is a picture of what to expect in your Drive if you were to run the example command listed above.!](/images/example_usage.png "Example Usage")
+![This is a picture of what to expect in your Drive if you were to run the example command listed above.](/images/example_usage.PNG "Example Usage")
 
 ### Note:
 
