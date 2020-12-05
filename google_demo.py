@@ -1,8 +1,8 @@
-import os, io, re, sys, shutil, queue
-from datetime import date, datetime, timedelta
+import sys, shutil
+from datetime import datetime, timedelta
 from pathlib import Path
 from Google import Create_Service, RFC_time
-from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload, MediaUploadProgress
+from googleapiclient.http import MediaFileUpload
 
 
 def itemsOlderThanAWeek():
